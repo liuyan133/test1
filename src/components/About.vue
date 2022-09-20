@@ -1,6 +1,6 @@
 <template>https://github.com/liuyan133/test1/blob/main/src/components/About.vue
 	<div>
-		<h2>中国时间2.0</h2>
+		<h2>中国时间3.0</h2>
 		<button @click="Time">北京时间:<label>{{time}}</label></button>
 	</div>
 </template>
